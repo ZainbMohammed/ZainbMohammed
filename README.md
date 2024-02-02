@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zainab Mohamed</h1>
 <h3 align="center">A junior web developer from Yemen / Hadhramout</h3>
-<img align="right" alt="logo" width="400" src="[https://iconscout.com/lottie-animation/web-developer-programming-8495108](https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif)">
+<img align="right" alt="logo" width="400" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zainbmohamed" alt="zainbmohamed" /></a> </p>
 

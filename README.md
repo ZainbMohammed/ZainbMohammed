@@ -2,7 +2,8 @@
 <h3 align="center">A junior web developer from Yemen / Hadhramout</h3>
 <img align="right" alt="logo" width="400" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
 
-
+<br></br>
+<br></br>
 - 🏫 I am an information technology graduate who recently graduated from the College of Computers and Information Technology **Hadhramout University**
 
 - 🌱 I’m currently learning **nodejs**

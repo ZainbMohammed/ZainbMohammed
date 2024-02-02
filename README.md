@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **zain.mohh22@gmail.com**
 
-- 🤔 I’m currently open for a new job opportunity, this is [https://drive.google.com/file/d/1I1EOicNhSdTH0lxQR1I5r3AhW2KsfJYF/view?usp=drivesdk](https://drive.google.com/file/d/1I1EOicNhSdTH0lxQR1I5r3AhW2KsfJYF/view?usp=drivesdk)
+- 🤔 I’m currently open for a new job opportunity, this is [https://drive.google.com/file/d/1I1EOicNhSdTH0lxQR1I5r3AhW2KsfJYF/view?usp=drivesdk](My_resume)
 
 - ⚡ Fun fact **I Love coding**
 

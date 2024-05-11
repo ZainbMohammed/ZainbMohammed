@@ -17,7 +17,7 @@
 
 - 🐼 Doing my best
 
-- ⚡ Fun fact **I Love coding**
+- ⚡ Fun fact **I Love Coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

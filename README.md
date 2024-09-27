@@ -5,7 +5,7 @@
 
 - 🏫 I am an information technology graduate who recently graduated from the College of Computers and Information Technology **Hadhramout University**
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Vuejs**
 
 - 👨‍💻 I’m looking to collaborate on **Open Source Projects**
 

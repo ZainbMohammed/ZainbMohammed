@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zainab Mohamed</h1>
 <h3 align="center">A junior web developer from Yemen / Hadhramout</h3>
 <br></br>
-![Coding Girl][(https://github.com/ZainbMohammed/ZainbMohammed/blob/main/assets/coding-girl.png](https://github.com/ZainbMohammed/ZainbMohammed/blob/main/DALL%C2%B7E%202024-12-14%2023.57.24%20-%20A%20mysterious%20illustration%20of%20a%20young%20woman%20with%20short%20curly%20shoulder-length%20hair%2C%20sitting%20at%20a%20desk%20and%20viewed%20from%20behind.%20The%20setting%20is%20dark-themed.webp))
+<!-- ![Coding Girl][(https://github.com/ZainbMohammed/ZainbMohammed/blob/main/assets/coding-girl.png](https://github.com/ZainbMohammed/ZainbMohammed/blob/main/DALL%C2%B7E%202024-12-14%2023.57.24%20-%20A%20mysterious%20illustration%20of%20a%20young%20woman%20with%20short%20curly%20shoulder-length%20hair%2C%20sitting%20at%20a%20desk%20and%20viewed%20from%20behind.%20The%20setting%20is%20dark-themed.webp)) -->
 
 <img align="right" alt="logo" width="400" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif">
 

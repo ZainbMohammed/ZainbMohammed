@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zainab Mohamed</h1>
 <h3 align="center">A junior web developer from Yemen / Hadhramout</h3>
 <br></br>
+![Coding Girl](https://github.com/ZainbMohammed/ZainbMohammed/blob/main/assets/coding-girl.png)
+
 <img align="right" alt="logo" width="400" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif">
 
 - 🏫 I am an information technology graduate who recently graduated from the College of Computers and Information Technology **Hadhramout University**

@@ -11,7 +11,7 @@
 
 - 👨‍💻 I’m looking to collaborate on **Open Source Projects**
 
-- 🤔 I’m currently open for a new job opportunity, this is [My Resume](https://drive.google.com/file/d/1I1EOicNhSdTH0lxQR1I5r3AhW2KsfJYF/view?usp=drivesdk)
+- 🤔 I’m currently open for a new job opportunity, this is [My Resume])
 
 - 📫 How to reach me **zain.mohh22@gmail.com**
 

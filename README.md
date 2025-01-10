@@ -5,7 +5,7 @@
 
 <img align="right" alt="logo" width="400" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif">
 
-- 🏫 I am an information technology graduate who recently graduated from the College of Computers and Information Technology **Hadhramout University**
+- 🏫 I am a recent graduate in Information Technology from the College of Computers and Information Technology at **Hadhramout University**
 
 - 🌱 I’m currently learning **Vue.js**
 
